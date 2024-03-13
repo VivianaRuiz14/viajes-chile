@@ -1,0 +1,14 @@
+
+html {
+    scroll-behavior: smooth;
+}
+.container{
+    position: relative;
+}
+.nabvar {
+    color: rgb(36,154,166);
+}
+.car {
+    text-align: right;
+}
+
